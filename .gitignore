@@ -1,0 +1,21 @@
+# React/Vite frontend project
+
+/node_modules
+/dist
+
+# Environment
+.env*
+.DS_Store
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Editor config
+.vscode
+.idea
+
+# Vite
+/.vite
+
