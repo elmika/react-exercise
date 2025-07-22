@@ -2,16 +2,18 @@
 
 ## Objetivo
 
-Crear una pequeña aplicación frontend en **React + TypeScript + TailwindCSS** que muestre una tabla de encuestas con filtros.
+Crear una pequeña aplicación frontend en React que muestre una tabla de encuestas con filtros.
 
 ## Requisitos
 
+- Usa ***React + Typescript***
 - Cargar datos desde `public/encuestas.json`
 - Mostrar los datos en una **tabla**
 - Permitir filtrar por estado: `borrador`, `publicada`, `cerrada`
 - Código modular, limpio, con componentes separados
-- Estilos usando TailwindCSS
 - Instrucciones claras en el README para levantar el proyecto
+- Diseño visual cuidado y funcional.
+    > Recomendamos usar TailwindCSS, pero si prefieres usas CSS modula, SCSS o styled-components, también es válido.
 
 ## Datos de ejemplo
 
